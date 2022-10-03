@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "name": "Vaibhav",
+      "email": "admin@gmail.com",
+      "password": "vaibhav@123",
+      "phoneNo": "9985695998",
+      "address": [
+        {
+          "addressId": "0",
+          "line1": "14A, C Block",
+          "line2": "Keshav Puram",
+          "postalCode": "110033",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com",
+      "password": "john@123",
+      "phoneNo": "9785695998",
+      "address": [
+        {
+          "addressId": "0",
+          "line1": "14A, C Block",
+          "line2": "Keshav Puram",
+          "postalCode": "110033",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        }
+      ]
+    }
+  ]
+}
