@@ -1,0 +1,38 @@
+{
+  "buyers": [
+    {
+      "id": 0,
+      "name": "Vaibhav",
+      "companyName": "All Code",
+      "description": "Vaibhav is creating a new company with several developers",
+      "address": [
+        {
+          "addressId": "0",
+          "line1": "14A, C Block",
+          "line2": "Keshav Puram",
+          "postalCode": "110033",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "John",
+      "companyName": "Seperate Coding",
+      "description": "B2B company for developers",
+      "address": [
+        {
+          "addressId": "0",
+          "line1": "14A, C Block",
+          "line2": "Keshav Puram",
+          "postalCode": "110033",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        }
+      ]
+    }
+  ]
+}
